@@ -23,5 +23,5 @@ public:
 
 	void set_species(string);
 	string get_species();
-
+	string describe();
 };
